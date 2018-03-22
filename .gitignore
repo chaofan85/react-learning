@@ -1,0 +1,9 @@
+/node_modules
+bundle.js
+npm-debug.log
+.DS_Store
+/simple-Youtube/src/util/api_key.js
+
+# IntelliJ
+*.iml
+/.idea
